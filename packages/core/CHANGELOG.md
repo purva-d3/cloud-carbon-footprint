@@ -1,5 +1,17 @@
 # @cloud-carbon-footprint/core
 
+## 0.11.0
+
+### Minor Changes
+
+- c439b0ba: implements reclassification and estimations for unknown usage rows
+
+### Patch Changes
+
+- Updated dependencies [f3569daa]
+- Updated dependencies [61332214]
+  - @cloud-carbon-footprint/common@1.2.0
+
 ## 0.10.0
 
 ### Minor Changes

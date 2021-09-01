@@ -1,5 +1,19 @@
 # @cloud-carbon-footprint/aws
 
+## 0.5.0
+
+### Minor Changes
+
+- 61332214: Adds CLI command for creating a lookup table to be used in ETL pipelines
+
+### Patch Changes
+
+- Updated dependencies [f3569daa]
+- Updated dependencies [61332214]
+- Updated dependencies [c439b0ba]
+  - @cloud-carbon-footprint/common@1.2.0
+  - @cloud-carbon-footprint/core@0.11.0
+
 ## 0.4.0
 
 ### Minor Changes

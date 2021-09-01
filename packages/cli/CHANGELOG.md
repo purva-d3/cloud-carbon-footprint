@@ -1,5 +1,18 @@
 # @cloud-carbon-footprint/cli
 
+## 1.1.0
+
+### Minor Changes
+
+- 61332214: Adds CLI command for creating a lookup table to be used in ETL pipelines
+
+### Patch Changes
+
+- Updated dependencies [f3569daa]
+- Updated dependencies [61332214]
+  - @cloud-carbon-footprint/app@0.3.0
+  - @cloud-carbon-footprint/common@1.2.0
+
 ## 1.0.2
 
 ### Patch Changes

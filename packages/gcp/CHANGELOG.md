@@ -1,5 +1,20 @@
 # @cloud-carbon-footprint/gcp
 
+## 0.4.0
+
+### Minor Changes
+
+- c439b0ba: implements reclassification and estimations for unknown usage rows
+
+### Patch Changes
+
+- c81cf4bd: Bug Fix: CO2e estimations for TechOps - Data Project and refactors GCP Recommendations file
+- Updated dependencies [f3569daa]
+- Updated dependencies [61332214]
+- Updated dependencies [c439b0ba]
+  - @cloud-carbon-footprint/common@1.2.0
+  - @cloud-carbon-footprint/core@0.11.0
+
 ## 0.3.1
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @cloud-carbon-footprint/client
 
+## 1.0.2
+
+### Patch Changes
+
+- f3569daa: Updates emissions factor api response to include cloud provider
+
+  For create-app template updates, please refer to [this commit](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/c19cca55d4c095d81f0bb80745580741d73405b5)
+
+- Updated dependencies [f3569daa]
+- Updated dependencies [61332214]
+  - @cloud-carbon-footprint/common@1.2.0
+
 ## 1.0.1
 
 ### Patch Changes
